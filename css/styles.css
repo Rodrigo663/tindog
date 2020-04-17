@@ -1,0 +1,197 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+ 
+}
+.colored-section {
+    color:white;
+    background-color: #ff4c68;
+}
+
+.white-section {
+    background-color: white;
+}
+.edit {
+    margin: 160px 50px;
+}
+.feature {
+
+    padding: 4.5%;
+}
+#features {
+    
+    padding: 7% 15%;
+    
+    position: relative;
+  
+ 
+  
+
+
+
+    
+    
+}
+.item-description {
+ 
+    width: 250px;
+    margin: auto;
+    color: #8f8f8f;
+}
+
+.icon:hover{
+    color: #e84630;
+}
+.icon {
+    font-size: 5rem;
+    
+   
+    margin-bottom: 45px;
+    text-align: right;
+    color: #ef8172;
+    
+}
+.feature-title {
+    font-weight: 1000;
+    font-size: 1.5rem;
+}
+
+.container-fluid{
+    padding: 3% 15% 7%;  /*Padding 3% for the top and bot and 15% for the left and right*/
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+/* Headigns */
+.slogan {
+
+   
+    font-weight: 900;
+    margin-top: 40px;
+    font-size: 3rem;
+    line-height: 1.5;
+ 
+}
+.section-heading {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item {
+
+    font-size: 1.3rem;
+    padding-left: 18px;
+    padding-right: 18px;
+    font-family: 'Montserrat-Light';
+}
+
+.rotate {
+  
+    transform: rotate(25deg);
+    width: 60%;
+    position: absolute;
+    right: 30%;
+    
+}
+
+
+.navbar {
+    padding: 0 0 4.5rem;
+    
+}
+
+.download {
+    margin: 5% 3% 5% 0;
+
+}
+
+#testimonials {
+   
+
+    background-color: #ef8172;
+   
+    
+    
+}
+
+
+/* #title.container-fluid {
+     background-color: white} */
+
+/* div .title {
+}*/
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+    
+
+}
+.testimonial-text {
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+  
+
+    
+}
+
+.press-img {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+
+    top: 2100px;
+    
+}
+
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .rotate {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+#cta {
+    
+    
+    padding: 150px 10px 150px;
+  
+}
+#footer {
+    padding: 45px 10px 55px;
+  
+    
+
+}
+
+.network {
+    font-size: 20px;
+    margin: 30px 20px;
+}
